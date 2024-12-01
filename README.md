@@ -32,15 +32,14 @@ A very simple calculator using HTML, CSS, and JavaScript.
 - Use the `C` button to clear the current input.
 - Use the `AC` button to reset the calculator.
 
+## Live Demo
+
+Check out the live demo [here](https://abdellahak.github.io/calculator-app/).
+
 ## Contributing
 
 Contributions are welcome! Please fork the repository and create a pull request with your changes.
 
-## License
-
-This project is licensed under the MIT License.
-
 ## Contact
 
 For any questions or suggestions, please contact [khoudenak@gmail.com](mailto:khoudenak@gmail.com).
-
