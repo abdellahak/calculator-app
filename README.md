@@ -36,6 +36,10 @@ A very simple calculator using HTML, CSS, and JavaScript.
 
 Check out the live demo [here](https://abdellahak.github.io/calculator-app/).
 
+## Project Review
+
+![Project Review](./images/calculator-app.webp)
+
 ## Contributing
 
 Contributions are welcome! Please fork the repository and create a pull request with your changes.
